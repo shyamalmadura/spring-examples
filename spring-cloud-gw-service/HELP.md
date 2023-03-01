@@ -27,8 +27,6 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
-```shell
-curl --dump-header - --header 'Host: www.circuitbreaker.com' http://localhost:8080/delay/3
-```
+
 
 * [Tutorial from](https://spring.io/guides/gs/gateway/)
